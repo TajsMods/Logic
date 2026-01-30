@@ -1,0 +1,17 @@
+{
+	"name": "Logic",
+	"namespace": "TajsMods-Logic",
+	"version_number": "1.0.0",
+	"description": "A logic mod for Godot",
+	"dependencies": [],
+	"extra": {
+		"godot": {
+			"authors": ["TajsMods"],
+			"compatible_game_version": ["*"],
+			"compatible_mod_loader_version": ["7.0.0"],
+			"incompatibilities": [],
+			"load_before": [],
+			"minimum_game_version": "1.0.0"
+		}
+	}
+}
